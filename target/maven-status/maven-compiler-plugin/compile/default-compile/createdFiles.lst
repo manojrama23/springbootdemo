@@ -1,0 +1,6 @@
+com/practice/springbootdemo/controller/StudentController.class
+com/practice/springbootdemo/service/StudentServiceImpl.class
+com/practice/springbootdemo/entity/Student.class
+com/practice/springbootdemo/SpringbootDemoApplication.class
+com/practice/springbootdemo/repository/StudentRepository.class
+com/practice/springbootdemo/service/StudentService.class
